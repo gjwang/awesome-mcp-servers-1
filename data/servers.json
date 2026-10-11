@@ -2432,6 +2432,24 @@
     }
   },
   {
+    "name": "BlockVectra",
+    "url": "https://github.com/blockvectra/mcp",
+    "description": "Remote MCP server for multi-chain EVM JSON-RPC, an indexed Data API, documentation, pricing and status, for developers and AI agents. Documentation, chain and status tools need no API key; Data API tools require one.",
+    "category": "finance-commerce-and-business-apps",
+    "language": "Other",
+    "provider": "BlockVectra",
+    "tags": [
+      "blockchain",
+      "json-rpc",
+      "evm",
+      "data-api"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://docs.blockvectra.com/mcp"
+    }
+  },
+  {
     "name": "NAIF Gravity",
     "url": "https://naifgravity.com",
     "description": "Hosted MCP diagnostics for API authentication, webhooks, and AI-agent integration failures, with bounded repair workflows based on sanitized evidence; free triage and optional paid repairs.",

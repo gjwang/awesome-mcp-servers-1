@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 254 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 255 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -2389,6 +2389,18 @@ Pay-per-call agent tools paid in USDC on Solana over x402, no account or API key
 - Tags: x402, solana, usdc, remote
 - Category: Finance, Commerce, and Business Apps
 - Streamable HTTP endpoint: https://bilbop-x402-mcp.watchdogsfreak.workers.dev/mcp
+
+### BlockVectra
+
+Remote MCP server for multi-chain EVM JSON-RPC, an indexed Data API, documentation, pricing and status, for developers and AI agents. Documentation, chain and status tools need no API key; Data API tools require one.
+
+- URL: https://github.com/blockvectra/mcp
+- Language: Other
+- Provider: BlockVectra
+- Official: yes
+- Tags: blockchain, json-rpc, evm, data-api
+- Category: Finance, Commerce, and Business Apps
+- Streamable HTTP endpoint: https://docs.blockvectra.com/mcp
 
 ### BuyWhere MCP
 
